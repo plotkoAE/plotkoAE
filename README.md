@@ -8,7 +8,7 @@
 
 - 👋 I’m Plotko Aleksandra
 - 🌱 I’m currently learning Data Analys, Data Science
-- 📫 You can reach out to me 
+- 📫 You can reach out to me plotko-ae@yandex.ru
 <div id="badges">
   <a href="https://www.linkedin.com/in/plotkoaleksandra/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
